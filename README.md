@@ -8,9 +8,8 @@ Task manager (TODO) API with Node.js
 
 ```
 PORT = 3000
-MONGODB_URL=mongodb://127.0.0.1:27017/task-manager-api
-SENDGRID_API_KEY=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
-JWT_SECRET=0251asvsdv56
+MONGODB_URL=<--YOUR_URL-->/task-manager-api
+SENDGRID_API_KEY=<--YOUR_API_KRY-->
 ```
 
 ##### Then install all dependency with
